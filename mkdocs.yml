@@ -4,6 +4,7 @@ theme: material
 
 nav:
   - Home: index.md
+  - Tips: tips.md
 
 plugins:
   - search:
